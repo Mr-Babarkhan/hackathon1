@@ -1,0 +1,1 @@
+export {default as HeroGirl} from "./images/HeroGirl.webp"
