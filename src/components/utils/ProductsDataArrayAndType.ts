@@ -1,3 +1,5 @@
+
+
 export interface slugType {
     _type: string,
     current: string,
@@ -31,6 +33,7 @@ export interface oneProductType {
     price: number,
 }
 
-export interface responseType {
+export interface resultType {
     result: Array<oneProductType>
 }
+
